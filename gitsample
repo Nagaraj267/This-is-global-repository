@@ -1,1 +1,6 @@
 this is a test file to practice git commands
+creating empty repository git <>init<>repository
+add anew file, add and commit, the a new branch called master will be created
+everytime we edit, we need ato add and commit the files
+git status is used to see if any file is ion workspace or in staging area or in gir repository
+
