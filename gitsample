@@ -1,1 +1,7 @@
 this is a test file to practice git commands
+following are git commands
+git<>init<>localrepository - initiates a empty repository named as local repository
+until u add/commit a file, no master will be created in the local repository and you can't see master, even if you type git branch you can't see any branch names
+
+After your 1st commit a master will be created, this will be the main branch
+
