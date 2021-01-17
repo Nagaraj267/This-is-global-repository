@@ -8,3 +8,7 @@ Now we have created a new branch called subbranch1 using command git branch newb
 switch to new branch from old bnranch ising command git chekout branch name
 now if u edit a file in local repository, add and commit it, oit'll be stored in subbranch not in master branch
 
+added a new tag to version called "this commit is in subbranch"
+and edit a old file commit it then give a tag  after twocommits, the new tag 
+old tag will have 1st commit, new tag will have next two commit entries
+
