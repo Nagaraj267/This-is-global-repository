@@ -24,8 +24,5 @@ added a new tag to version called "this commit is in subbranch"
 and edit a old file commit it then give a tag  after twocommits, the new tag 
 old tag will have 1st commit, new tag will have next two commit entries
 try now
-hashlhs
-
-Now we need to check for revert
-l
+hashlhsl
 >>>>>>> subbranch1
