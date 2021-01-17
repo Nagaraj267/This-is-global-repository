@@ -5,3 +5,7 @@ until u add/commit a file, no master will be created in the local repository and
 
 After your 1st commit a master will be created, this will be the main branch
 
+git<>status   - this is used to see if any file is in workspace, staging area or in local repository
+git<>add---- this is used to move file from woirkspace to staging area
+git<>commit<>-m<>"commitmessage" - this is used to move file from staging area to local repository
+git>?log - this is used to see log hgistory of commists
