@@ -4,3 +4,7 @@ add anew file, add and commit, the a new branch called master will be created
 everytime we edit, we need ato add and commit the files
 git status is used to see if any file is ion workspace or in staging area or in gir repository
 
+Now we have created a new branch called subbranch1 using command git branch newbranch name
+switch to new branch from old bnranch ising command git chekout branch name
+now if u edit a file in local repository, add and commit it, oit'll be stored in subbranch not in master branch
+
