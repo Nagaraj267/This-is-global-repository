@@ -26,6 +26,12 @@ old tag will have 1st commit, new tag will have next two commit entries
 try now
 hashlhs
 
-Now we need to check for revert
+Now we need to check for rever
+
+
+
+once again we'll try git push
+
+t
 l
 >>>>>>> subbranch1
